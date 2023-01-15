@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.16)
 
 include(pico-sdk/pico_sdk_init.cmake)
 
-project(PicoTemplate)
+project(nrf CXX C ASM)
 
 pico_sdk_init()
 
