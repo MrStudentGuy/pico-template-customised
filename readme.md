@@ -52,3 +52,7 @@ Copy the .uf2 file from the `build` directory onto the pico to run
 ls /dev/tty.*
 screen /dev/tty.usbmodem0000000000001
 ```
+
+# Final Step
+
+Change CMakeList.txt to personalise build
